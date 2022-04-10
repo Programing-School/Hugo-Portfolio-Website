@@ -39,6 +39,10 @@
   }
 }
 
+* {
+    transition: all 0.5s;
+}
+
 /* Header animation */
 @keyframes fade-up {
   0% {
